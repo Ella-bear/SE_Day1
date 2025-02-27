@@ -24,18 +24,19 @@ Deployment: Releasing the software to users.
 Maintenance: Ongoing support, updates, and enhancements
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall: A linear, sequential approach where each phase must be completed before the next begins. It is well-suited for projects with clear, stable requirements and where changes are not anticipated, such as in aerospace or government contracts.
+Waterfall: Sequential approach with distinct phases flowing downwards like a waterfall.
 
-Agile: An iterative and incremental approach that emphasizes flexibility, collaboration, and customer feedback. It is ideal for projects where requirements are likely to change, such as in web development or mobile applications.
+Agile:  Iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Software Developer: Writes, tests, and maintains the code. Collaborates with team members to design and implement features.
-Quality Assurance Engineer: Ensures the software meets specified requirements and is free from defects through testing and validation.
-Project Manager: Oversees the project, ensuring it stays on schedule and within budget. Manages resources, communicates with stakeholders, and resolves issues
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs): Tools like Visual Studio, Eclipse, or IntelliJ IDEA provide a comprehensive environment for coding, debugging, and testing, enhancing productivity and code quality.
+Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+Project Manager: Oversees the planning, execution, and delivery of software projects.
 
-Version Control Systems (VCS): Systems like Git, SVN, or Mercurial track and manage changes to code, allowing for collaboration, historical tracking, and the ability to revert changes if needed.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
+Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion).
+
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Scope Creep: Manage by clearly defining project scope and using change control processes.
 Technical Debt: Address by regular refactoring and staying updated with best practices.
